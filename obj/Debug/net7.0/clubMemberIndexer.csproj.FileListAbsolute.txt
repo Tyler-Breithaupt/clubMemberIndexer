@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/bin/Debug/net7.0/clubMemberIndexer
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/bin/Debug/net7.0/clubMemberIndexer.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/bin/Debug/net7.0/clubMemberIndexer.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/bin/Debug/net7.0/clubMemberIndexer.dll
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/bin/Debug/net7.0/clubMemberIndexer.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.dll
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/refint/clubMemberIndexer.dll
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/clubMemberIndexer.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/clubMemberIndexer/obj/Debug/net7.0/ref/clubMemberIndexer.dll
